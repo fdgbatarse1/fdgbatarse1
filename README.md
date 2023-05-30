@@ -1,10 +1,12 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 <div align="center">
     <img 
         src="./profile.png"
         alt="A headshot of myself, smiling and looking at the camera." fetchpriority="high" 
         width="200" 
         height="209" 
-        style="border-radius: 500px; padding: 20px;"
+        class="rounded-image"
     >
 </div>
 
