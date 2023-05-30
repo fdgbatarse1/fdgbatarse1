@@ -1,15 +1,3 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
-
-<div align="center">
-    <img 
-        src="./profile.png"
-        alt="A headshot of myself, smiling and looking at the camera." fetchpriority="high" 
-        width="200" 
-        height="209" 
-        class="rounded-image"
-    >
-</div>
-
 <h1 align="center">Hi 👋, I'm Fernando Daniel González Batarsé</h1>
 
 <h3 align="justify">I'm a passionate React Developer from El Salvador who loves building intuitive and engaging web applications. Welcome to my GitHub profile!</h3>
