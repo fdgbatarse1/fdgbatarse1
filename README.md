@@ -2,11 +2,10 @@
 
 <h3 align="justify">I'm a passionate React Developer from El Salvador who loves building intuitive and engaging web applications. Welcome to my GitHub profile!</h3>
 
-- 👨‍💻 My personal website is [https://portfolio-git-main-fdgbatarse.vercel.app/](https://portfolio-git-main-fdgbatarse.vercel.app/)
+- 👨‍💻 My personal website is [fdgbatarse.dev](https://www.fdgbatarse.dev/)
+- 💻 Check out my [Gitlab account](https://gitlab.com/fdgbatarse)
 - 🎓 Check out my university projects on my other [Github account](https://github.com/Batarse1)
-
 - 💬 Ask me about HTML, CSS, Javascript, Typescript, React, and Next.js
-
 - 📫 How to reach me **fdgbatarse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
